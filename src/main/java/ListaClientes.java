@@ -9,7 +9,7 @@ public class ListaClientes {
 public static int Menu(){//Menú de opciones en el que selecionamos lo que queremos hacer
         Scanner sc= new Scanner(System.in);
         int opcion=7;
-        
+        //Cambio pequeño
         try{
             System.out.println("                 ");
             System.out.println("Menú principal:");
